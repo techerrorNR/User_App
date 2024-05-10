@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917565873849",
+    "project_id": "itsreuse-eeac0",
+    "storage_bucket": "itsreuse-eeac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917565873849:android:ba9d571a728824583d4568",
+        "android_client_info": {
+          "package_name": "com.techerrornr.users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3adVefbIQWiRz2HuXtvwpqiZh6M9QA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
